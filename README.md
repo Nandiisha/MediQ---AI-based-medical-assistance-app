@@ -104,3 +104,4 @@ If you encounter issues with the voice conversation functionality:
 ## License
 
 [MIT](LICENSE)
+# MediQ---AI-based-medical-assistance-app
